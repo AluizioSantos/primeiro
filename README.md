@@ -1,5 +1,5 @@
 # Conserta meu carro
 
-##Esplicando o projeto:
+## Esplicando o projeto:
 
-###Conectando Clientes a Serviços Automotivos de Confiança
+### Conectando Clientes a Serviços Automotivos de Confiança
